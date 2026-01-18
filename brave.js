@@ -187,7 +187,7 @@ export default function BulkLinkExtractor() {
                             <AlertCircle className="text-yellow-300 flex-shrink-0 mt-0.5" size={20} />
                             <div className="text-sm text-yellow-200">
                                 <p className="font-semibold mb-1">Filters for: Mediafire, Akia, Viki, 1File, Rootz</p>
-                                <p>Note: Some websites may block requests due to CORS. If a URL fails, try using the Node.js version or browser console method.</p>
+                                <p>Note: Some websites may block requests due to CORS. If a URL fails, use the Node.js script instead.</p>
                             </div>
                         </div>
                     </div>
